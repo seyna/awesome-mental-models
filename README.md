@@ -20,7 +20,7 @@
 
 - Gresham’s Law: to avoid becoming part of systems where good behavior cannot win due to the nature of the Law
 
-## Learn from best learning-machines
+## Learn from Best Learning-machines
 apply mindsets of companies/people (learning-machines) into yours
 - Amazon 每隔幾年革新自己 => 找出自己的舊習慣，改變它
 
@@ -113,3 +113,22 @@ apply mindsets of companies/people (learning-machines) into yours
 - Lanchester's law
 - bullwhip effect
 - Pascal's persuasion principle
+
+## 工具
+
+- 清單
+- 流程圖
+  - 回顧、解釋系統、未來規劃
+- 運用`四象限思考矩陣`做反向思考
+
+``` 
+不做 X 學習會有效率  |   做 X 學習會有效率
+---------------------|-----------------
+不做 X 學習會無效率  |   做 X 學習會無效率
+```
+
+- 熱圖 (heatmap)
+- 邏輯樹 _[ref](https://www.managertoday.com.tw/glossary/view/147)_
+  - 找出原因、找出方法
+  - 也是分群方法
+- 系統思考(使用化學公式、回饋迴路圖)
