@@ -24,7 +24,7 @@
 apply mindsets of companies/people (learning-machines) into yours
 - Amazon 每隔幾年革新自己 => 找出自己的舊習慣，改變它
 
-# Charlie Munger 所整理的 25 條心理傾向
+# Cognitive Biases by Charlie Munger
 
 當中我覺得最重要的幾條：
 
@@ -151,7 +151,7 @@ apply mindsets of companies/people (learning-machines) into yours
 - Pascal's persuasion principle
 - 黑天鵝
 
-## 工具
+## Tools
 
 - 清單
 - 流程圖
@@ -160,7 +160,7 @@ apply mindsets of companies/people (learning-machines) into yours
 
 ``` 
 不做 X 學習會有效率  |   做 X 學習會有效率
----------------------|-----------------
+--------------------|-----------------
 不做 X 學習會無效率  |   做 X 學習會無效率
 ```
 
