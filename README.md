@@ -24,6 +24,42 @@
 apply mindsets of companies/people (learning-machines) into yours
 - Amazon 每隔幾年革新自己 => 找出自己的舊習慣，改變它
 
+# Charlie Munger 所整理的 25 條心理傾向
+
+當中我覺得最重要的幾條：
+
+1. 獎勵和懲罰超級反應傾向
+2. 被剝奪超級反應傾向
+3. 社會認同 + 簡單聯想誤導 + 對照誤導傾向
+
+```
+1. 獎勵和懲罰超級反應傾向
+2. 喜歡/熱愛傾向
+3. 討厭/憎恨傾向
+4. 避免懷疑傾向
+5. 避免不一致傾向
+6. 好奇傾向
+7. 康德式公平傾向
+8. 羨慕/忌妒傾向
+9. 回饋傾向
+10. 簡單聯想誤導傾向
+11. 簡單的、避免痛苦的心理否認
+12. 自視過高傾向
+13. 過度樂觀傾向
+14. 被剝奪超級反應傾向
+15. 社會認同傾向
+16. 對照誤導傾向
+17. 壓力影響傾向
+18. 易取得性誤導傾向
+19. 不用就忘傾向
+20. 毒品誤導傾向
+21. 衰老誤導傾向
+22. 權威誤導傾向
+23. 廢話傾向
+24. 師出有名傾向
+25. 魯拉帕路薩傾向
+```
+
 ## Mental Models from Feynman 
 
 下面 7 點當中我最愛的 3 點。
@@ -113,6 +149,7 @@ apply mindsets of companies/people (learning-machines) into yours
 - Lanchester's law
 - bullwhip effect
 - Pascal's persuasion principle
+- 黑天鵝
 
 ## 工具
 
