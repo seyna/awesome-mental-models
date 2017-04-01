@@ -126,7 +126,7 @@ apply mindsets of companies/people (learning-machines) into yours
 - confirmation bias
 - loss aversion 
 - cognitive bias
-  - visual map => https://zh.scribd.com/doc/30548590/Cognitive-Biases-A-Visual-Study-Guide
+  - visual map _[ref](https://zh.scribd.com/doc/30548590/Cognitive-Biases-A-Visual-Study-Guide)_
 - systems thinking
   - 勒沙特列原理 (chemistry)
   - Causal loop diagrams, Stock and flow diagrams
@@ -159,9 +159,9 @@ apply mindsets of companies/people (learning-machines) into yours
 - 運用`四象限思考矩陣`做反向思考
 
 ``` 
-不做 X 學習會有效率  |   做 X 學習會有效率
---------------------|-----------------
-不做 X 學習會無效率  |   做 X 學習會無效率
+不做 X 會達到目標   |   做 X 會達到目標
+--------------- -|-----------------
+不做 X 不會達到目標 |   做 X 不會達到目標
 ```
 
 - 熱圖 (heatmap)
