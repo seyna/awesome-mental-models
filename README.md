@@ -5,7 +5,7 @@
 - Learn to think through problems backwards as well as forward.
 - Circle of Competence
 - 達爾文的黃金法則: 注意並收藏那些與你先前的經驗相左的事實
-- Feynman's Technique
+- Feynman's Technique - 若你不能將學到的東西以簡單的語言解釋給小孩子聽，回頭重新學習，別用行話欺騙自己，直到能以淺顯易懂的文字解釋清楚為止。
 - Work with and under people you admire, and avoid the inverse when at all possible
 
 - If you want to persuade, appeal to interest not to reason. - Ben Franklin
